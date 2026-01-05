@@ -11,6 +11,12 @@
 
 ## 安装
 
+推荐从 GreasyFork 安装：
+
+https://greasyfork.org/zh-CN/scripts/561471-linuxdo-shadcn
+
+或手动安装：
+
 1. 安装 Tampermonkey（油猴）
 2. 新建脚本，复制粘贴 `script.user.js`
 3. 打开 `linux.do` 的主题列表页，在油猴菜单中点击「布局设置」
