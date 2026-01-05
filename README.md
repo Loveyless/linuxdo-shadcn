@@ -1,6 +1,6 @@
 # linuxdo-shadcn
 
-本仓库仅专注 **LinuxDo / Discourse 主题列表的布局增强**（分栏/瀑布流 + 设置面板），已移除上游脚本中的 AI 总结与分享/复制相关功能。
+本仓库仅专注 **LinuxDo / Discourse 主题列表的布局增强**（分栏/瀑布流 + 设置面板）。
 
 ## 功能
 
@@ -15,7 +15,5 @@
 2. 新建脚本，复制粘贴 `script.user.js`
 3. 打开 `linux.do` 的主题列表页，在油猴菜单中点击「布局设置」
 
-## 致谢
 
-基于上游 `Loveyless/linuxdo-share` 的布局部分精简而来。
 

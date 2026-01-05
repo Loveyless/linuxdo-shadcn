@@ -1,9 +1,13 @@
 // ==UserScript==
 // @name          linuxdo-shadcn
 // @namespace     http://tampermonkey.net/
-// @version       0.1.0
-// @description   仅保留主题列表的分栏/瀑布流布局与设置面板（移除 AI 总结与分享相关功能）。
-// @author        基于 https://github.com/Loveyless/linuxdo-share 精简
+// @version       0.1.1
+// @description   LinuxDo / Discourse 主题列表布局增强：分栏/瀑布流 + 设置面板
+// @author        @Loveyless https://github.com/Loveyless/linuxdo-shadcn
+// @homepageURL   https://github.com/Loveyless/linuxdo-shadcn
+// @supportURL    https://github.com/Loveyless/linuxdo-shadcn/issues
+// @updateURL     https://raw.githubusercontent.com/Loveyless/linuxdo-shadcn/main/script.user.js
+// @downloadURL   https://raw.githubusercontent.com/Loveyless/linuxdo-shadcn/main/script.user.js
 // @match         *://*.linux.do/*
 // @match         *://*.idcflare.com/*
 // @match         *://*.nodeloc.com/*
